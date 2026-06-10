@@ -1,7 +1,7 @@
 # java-backend-development-learning-journey
   Welcome to my repository!Here i track my daily progress, coding practice, and Backend-development concepts step-by-step.
   
-Author - Vansh 
+# Author - Vansh 
 
 ## 📌 About This Repository
 - *Goal:* To master Java Backend Development (Core Java, Advanced Java, Database Engineering, and Frameworks).
