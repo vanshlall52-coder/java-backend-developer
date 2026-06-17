@@ -15,6 +15,7 @@ public class GreaterOfTwoNumbers {
         } else {
             System.out.println("The greater number is: " + num2);
         }
+        scanner.close();
 
         
     }
