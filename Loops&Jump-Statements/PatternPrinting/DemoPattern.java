@@ -7,9 +7,6 @@ public class DemoPattern{
         System.out.print("Enter value of i. ");
         int I = sc.nextInt();
 
-        // System.out.print("Enter value of j. ");
-        // int J = sc.nextInt();
-
         for(int i = 1; i <= I; i++){
             for(int j = 1; j <= i; j++ ){
                 System.out.print("* ");
