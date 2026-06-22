@@ -14,6 +14,6 @@ public class CommaSeperatedVariation{
         for(int i = startI, j = startJ; i <= 10; i++, j++){
             System.out.println(i * j);
         }
-        
+        sc.close();
     }
 }
