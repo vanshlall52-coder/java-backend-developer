@@ -9,16 +9,14 @@ This repository contains my Java practice code and topic-wise programs as I lear
 - Operators
 - Conditional Statements
 - Loops & Jump Statements
+- Arrays & Strings
 - Functions
-- Arrays
-- Strings
 - OOP
 - Exception Handling
 - Collections
 - Multithreading
 - File Handling
 - JDBC
-- Java 8 Features
 
 ## Tools
 
