@@ -1,11 +1,11 @@
 public class PassingClassesToMethod {
-    public static class Car {
+    public static class Car {// Create own data type
         String name;
         String colour;
         int length;
         int seats;
         int tourque;
-        void print(){
+        void print(){ // Method to print the details of the car
             System.out.println("Name: " + name + ", Colour: " + colour + ", Length: " + length + ", Seats: " + seats + ", Tourque: " + tourque);
         }
     }
@@ -32,7 +32,7 @@ public class PassingClassesToMethod {
         c3.tourque = 400;
 
        
-        change(c1);
+        change(c1);// Passing object of Car class to method change
         System.out.println("Seats of c1 after change: " + c1.seats);
 
         c1.print();
@@ -41,7 +41,7 @@ public class PassingClassesToMethod {
         
         
     }
-    private static void change(Car c1) {
-        c1.seats = 7;
+    private static void change(Car c1) {// Method to change the seats of car
+        c1.seats = 7;// Changing the seats of car c1 to 7
     }
 }
