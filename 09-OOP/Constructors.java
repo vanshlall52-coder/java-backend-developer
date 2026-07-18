@@ -9,7 +9,7 @@ public class Constructors {
             seats = z;
             
         }
-        void print(){
+        void print(){// Method to print the details of the car
             System.out.println("Name: " + name + ", Colour: " + colour + ", Seats: " + seats);
         }
     }
